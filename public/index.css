@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(179, 228, 240);
+}
+
+img {
+  display: block;
+  justify-content: center;
+  border-radius: 3%;
+  margin: 5% 5% 0% 5%;
+}
+
+.whitebox {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+  background-color: white;
+  border-radius: 20px;
+  margin: 10% 40% 20% 40%;
+}
+
+.titlepara {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: center;
+}
+
+.contentpara {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin: 0%;
+  text-align: center;
+}
